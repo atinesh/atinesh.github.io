@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medium on Atinesh Singh</title>
+    <link>https://atinesh.github.io/tags/medium/</link>
+    <description>Recent content in Medium on Atinesh Singh</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://atinesh.github.io/tags/medium/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Building a Retrieval Augmented Generation (RAG) Chatbot</title>
+      <link>https://atinesh.github.io/posts/hugo-coder-wiki/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://atinesh.github.io/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Installing CUDA Library in Ubuntu 18.04</title>
+      <link>https://atinesh.github.io/posts/hugo-coder-wiki/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://atinesh.github.io/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Installing multiple CUDA Libraries in the same machine</title>
+      <link>https://atinesh.github.io/posts/hugo-coder-wiki/</link>
+      <pubDate>Mon, 25 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://atinesh.github.io/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubuntu tips and tricks: Configuring multiple gcc in same Ubuntu machine</title>
+      <link>https://atinesh.github.io/posts/hugo-coder-wiki/</link>
+      <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://atinesh.github.io/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML on Atinesh Singh</title>
+    <link>https://atinesh.github.io/tags/html/</link>
+    <description>Recent content in HTML on Atinesh Singh</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://atinesh.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GenAI Chat</title>
+      <link>https://atinesh.github.io/projects/project-1/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://atinesh.github.io/projects/project-1/</guid>
+      <description>&lt;p&gt;GenAI Chat is an intelligent question-answering chatbot designed to help users interact with their data. Built on the &lt;code&gt;Retrieval Augmented Generation (RAG)&lt;/code&gt; technique, it leverages the power of OpenAI’s large language models (LLMs) and &lt;code&gt;Redis&lt;/code&gt; vector databases to provide accurate and context-aware answers to complex user queries.&lt;/p&gt;&#xA;&lt;h4 id=&#34;system-architecture&#34;&gt;&#xD;&#xA;  System Architecture&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#system-architecture&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h4&gt;&#xD;&#xA;&lt;img src=&#34;https://atinesh.github.io/images/genai_chat.png&#34; alt=&#34;Flow Diagram&#34; style=&#34;max-width:70%; height:auto; border: 1px; border-radius: 15px;&#34;&gt;&#xD;&#xA;&lt;h4 id=&#34;chatbot-user-interface&#34;&gt;&#xD;&#xA;  Chatbot User Interface&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#chatbot-user-interface&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h4&gt;&#xD;&#xA;&lt;img src=&#34;https://atinesh.github.io/images/genai_chat_ui.png&#34; alt=&#34;GenAI Chat UI&#34; style=&#34;max-width:70%; height:auto; border: 1px; border-radius: 15px;&#34;&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;https://atinesh.medium.com/building-a-retrieval-augmented-generation-rag-chatbot-9a86c5b05691&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View on Medium&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
