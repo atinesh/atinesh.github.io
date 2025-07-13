@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Atinesh Singh</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://atinesh.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Personal AI Assistant</title>
+      <link>https://atinesh.github.io/posts/hugo-coder-wiki/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://atinesh.github.io/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Building a Retrieval Augmented Generation (RAG) Chatbot</title>
       <link>https://atinesh.github.io/posts/hugo-coder-wiki/</link>

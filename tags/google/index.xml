@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google on Atinesh Singh</title>
+    <link>https://atinesh.github.io/tags/google/</link>
+    <description>Recent content in Google on Atinesh Singh</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://atinesh.github.io/tags/google/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Claude Personal AI Assistant</title>
+      <link>https://atinesh.github.io/projects/project-2/</link>
+      <pubDate>Sun, 13 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://atinesh.github.io/projects/project-2/</guid>
+      <description>&lt;p&gt;Claude Personal AI Assistant enables users to efficiently manage their Gmail, Google Calendar, and Notion workspace directly from the Claude Desktop application. It leverages the official &lt;a href=&#34;https://github.com/makenotion/notion-mcp-server&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Notion MCP server&lt;/a&gt; for seamless Notion workspace integration, along with a Custom MCP server built using the &lt;a href=&#34;https://github.com/jlowin/fastmcp&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FastMCP&lt;/a&gt; library for managing Gmail, Google calendar and Google meet.&lt;/p&gt;&#xA;&lt;h4 id=&#34;system-architecture&#34;&gt;&#xD;&#xA;  System Architecture&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#system-architecture&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h4&gt;&#xD;&#xA;&lt;img src=&#34;https://atinesh.github.io/images/p2-flow-chart.png&#34; alt=&#34;Flow Diagram&#34; style=&#34;max-width:70%; height:auto; border: 1px; border-radius: 15px;&#34;&gt;&#xD;&#xA;&lt;h4 id=&#34;chatbot-user-interface&#34;&gt;&#xD;&#xA;  Chatbot User Interface&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#chatbot-user-interface&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h4&gt;&#xD;&#xA;&lt;img src=&#34;https://atinesh.github.io/images/p2-chat-ui.png&#34; alt=&#34;Chat UI&#34; style=&#34;max-width:70%; height:auto; border: 1px; border-radius: 15px;&#34;&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;https://atinesh.medium.com/claude-personal-ai-assistant-0104ddc5afc2&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;View on Medium&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
